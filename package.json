@@ -1,0 +1,24 @@
+{
+  "name": "node-pad",
+  "version": "1.0.0",
+  "description": "Simple note pad app built with node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamo1998/Node-Pad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamo1998/Node-Pad/issues"
+  },
+  "homepage": "https://github.com/jamo1998/Node-Pad#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "validator": "^12.1.0",
+    "yargs": "^15.0.2"
+  }
+}
